@@ -1,4 +1,10 @@
-Design and build digital services for the NHS
+Git list of all participants
 
-Use the service manual to build consistent, usable services that put people first.​
-Learn from the research and experience of other NHS teams.
+Add your name below:
+
+First Name:
+Last Name:
+
+note - make sure not to delete the person before you
+
+Last updated by: Matt
